@@ -2,7 +2,7 @@
 
 A simple, responsive calculator built with HTML, CSS, and JavaScript. Features a clean dark theme interface with basic arithmetic operations.
 
-![alt text](<images/calculator screenshot.png>)
+![alt text](<images/calculator_screenshot.png>)
 
 _Clean, dark-themed calculator interface_
 
